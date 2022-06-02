@@ -1,0 +1,9 @@
+1) install python (recommended : python 3.8.8)
+
+2) Install modules :
+	- pip install -r requirements.txt
+
+3) Hit command: 
+	python main.py
+
+4) ENjoy :))
